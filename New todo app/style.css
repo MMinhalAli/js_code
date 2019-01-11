@@ -1,0 +1,49 @@
+#Input
+{
+    padding: 10px;
+    margin: 0px ;
+    width: 50%;
+}
+#SubBut
+{
+    padding: 10px;
+ margin-left: -6px;
+}
+.MainDiv
+{
+    
+}
+#MainDiv
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    top: 7em;
+    position: relative;
+    background-color: chartreuse;
+    box-shadow: 0px 10px #888888;
+    
+}
+div.one
+{
+    box-shadow: 0px 10px #888888;
+}
+
+div.two
+{
+    box-shadow: 0px 10px #888888;
+}
+#IMAGE{
+    width: 15%;
+    height: 15%;
+}
+#SignUP
+{
+    float: right;
+}
+#SubList
+{
+    /* display: inline; */
+    background-color: blue;
+    border-width: 4px 0px 0px 0px;
+    padding: 15px 5px 15px 5px;
+}
