@@ -1,0 +1,61 @@
+
+div.container
+{
+    position: relative;
+    left: 28em;
+    top: 2.9em;
+    
+    width: 400px;
+    height: 509px;
+    background-color:dodgerblue;
+}
+.input
+{  
+    position: relative;
+    left: 3em;
+    top: 4em;
+    font-family:monospace;
+    font-size: 17px;
+    border: none;
+    height: 30px;
+    width: 220px;
+    outline: none;
+    border-radius: 5px;
+    background-position: 10px;
+    padding-left: 17px;
+}
+.btn
+{
+    position: relative;
+    left: 2em;
+    top: 5em;
+    width:95px;
+    height:33.2px;
+}
+.heading
+{
+    position: relative;
+    left: 4em;
+    top: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: red;
+}
+.list
+{
+    position: relative;
+    left: 3em;
+    top: 4em;
+    font-family:monospace;
+    font-size: 17px;
+    border: none;
+    height: 30px;
+    width: 220px;
+    outline: none;
+    border-radius: 5px;
+    background-position: 10px;
+    padding-left: 17px;
+    font-weight: bold;
+    color:red;
+    
+}
